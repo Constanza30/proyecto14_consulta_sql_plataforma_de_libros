@@ -37,7 +37,7 @@ Las tablas se relacionan principalmente mediante `book_id`, `author_id` y `publi
 
 ---
 
-## 🧠 Hallazgos clave
+## 🧠 Hallazgos claves
 - La popularidad de un libro no siempre implica mayor satisfacción promedio.
 - Autores con alta consistencia en ratings representan activos estratégicos.
 - Editoriales con mayor volumen dominan el catálogo, pero no necesariamente la calidad.
